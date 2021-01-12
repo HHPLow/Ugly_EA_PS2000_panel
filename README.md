@@ -15,7 +15,11 @@ EA PS2000 Serial control panel by Python3
 - ON/OFF pressure test
 - Voltage change test
 
-## TODO:
+## Ugly UI
+
+ ![Ugly_UI](./pic/Ugly_UI.png)
+
+## TODO
 
 1. Optimize the UI
 2. Optimized code
